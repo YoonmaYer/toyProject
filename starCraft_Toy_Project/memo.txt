@@ -1,0 +1,8 @@
+repairable(SCV)
+
+healable(medic)
+
+stim pack(marine, firebat)
+
+
+https://scarlett.tistory.com/38 << 참고용
